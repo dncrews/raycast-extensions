@@ -4,6 +4,7 @@
   "title": "Github PR Labels",
   "description": "Create Github Pull Request Labels",
   "icon": "icon.png",
+  "owner": "adl",
   "author": "dncrews",
   "categories": [
     "Communication",
